@@ -1,0 +1,13 @@
+# idx	name	epsg	tag	size_hint	url
+0	cocosislandz47	28347	ag	2.5MB	https://elevation-direct-downloads.s3-ap-southeast-2.amazonaws.com/5m-dem/national_utm_mosaics/cocosislandz47.zip
+1	christmasislandz48	28348	ag	17MB	https://elevation-direct-downloads.s3-ap-southeast-2.amazonaws.com/5m-dem/national_utm_mosaics/christmasislandz48.zip
+2	waz50	28350	ag	2.2GB	https://elevation-direct-downloads.s3-ap-southeast-2.amazonaws.com/5m-dem/national_utm_mosaics/waz50.zip
+3	waz51	28351	ag	59.4MB	https://elevation-direct-downloads.s3-ap-southeast-2.amazonaws.com/5m-dem/national_utm_mosaics/waz51.zip
+4	ntz52	28352	ag	181.5MB	https://elevation-direct-downloads.s3-ap-southeast-2.amazonaws.com/5m-dem/national_utm_mosaics/ntz52.zip
+5	ntz53	28353	ag	341.1MB	https://elevation-direct-downloads.s3-ap-southeast-2.amazonaws.com/5m-dem/national_utm_mosaics/ntz53.zip
+6	nationalz54ag	28354	ag	6.1GB	https://elevation-direct-downloads.s3-ap-southeast-2.amazonaws.com/5m-dem/national_utm_mosaics/nationalz54ag.zip
+7	nationalz55_ag	28355	ag	10.8GB	https://elevation-direct-downloads.s3-ap-southeast-2.amazonaws.com/5m-dem/national_utm_mosaics/nationalz55_ag.zip
+8	nationalz56_ag	28356	ag	9.8GB	https://elevation-direct-downloads.s3-ap-southeast-2.amazonaws.com/5m-dem/national_utm_mosaics/nationalz56_ag.zip
+9	mdbaz54_qg	28354	qg	2.5GB	https://elevation-direct-downloads.s3-ap-southeast-2.amazonaws.com/5m-dem/national_utm_mosaics/mdbaz54_qg.zip
+10	mdbaz55_qg	28355	qg	6.1GB	https://elevation-direct-downloads.s3-ap-southeast-2.amazonaws.com/5m-dem/national_utm_mosaics/mdbaz55_qg.zip
+11	mdbaz56_qg	28356	qg	296.2MB	https://elevation-direct-downloads.s3-ap-southeast-2.amazonaws.com/5m-dem/national_utm_mosaics/mdbaz56_qg.zip

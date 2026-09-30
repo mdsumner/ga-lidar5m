@@ -1,0 +1,9 @@
+# run artefacts live on scratch, never in the repo
+probe-report.txt
+*.out
+zips/
+cog/
+work/
+manifests/
+probe/
+*.sif
